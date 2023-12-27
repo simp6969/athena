@@ -40,7 +40,7 @@
         "ym uzi",
         "kino uzi"
       ],
-      "responses": ["ishe or atsaa", "youtube nee gd bgnmu hahah"],
+      "responses": ["ishe or atsaa", "youtube nee geed bgnmu hahah"],
       "context_set": ""
     },
     {
@@ -69,6 +69,16 @@
         "gagu du bnu"
       ],
       "responses": ["asuhgun gj bodlooshd sd"]
+    },
+    {
+      "tag": "aduu",
+      "patterns": ["aduu ymaa", "aduu min zuseere shn bdg"],
+      "responses": ["hrn tiimee"]
+    },
+    {
+      "tag": "mungu",
+      "patterns": ["sariin tsalin hed ve", "sarin tsalin hed be"],
+      "responses": ["bi ajilq", "4 say dolr", "bi huuhd"]
     }
   ]
 }

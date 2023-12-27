@@ -155,7 +155,7 @@ def favSong():
 
 assistant = BasicAssistant('model.json', method_mappings={
     "openYoutube": openYoutube,
-    "duu": favSong
+    "duu": favSong,
 })
 
 assistant.fit_model(epochs=50)
