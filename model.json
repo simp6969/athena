@@ -1,0 +1,74 @@
+{
+  "intents": [
+    {
+      "tag": "ner",
+      "patterns": [
+        "cmg hen gdy",
+        "ci hein",
+        "ci yui",
+        "yuin ci",
+        "ymr atsn ve",
+        "taniltsylda",
+        "taniltshuu 2ula",
+        "taniltsy"
+      ],
+      "responses": ["athena"]
+    },
+    {
+      "tag": "mendleh",
+      "patterns": ["snu", "yuen", "hy", "huuy", "huy", "anda", "homie"],
+      "responses": ["sn2", "yu hihu", "uuw", "sonin yubn", "uuv", "ys", "ysn"],
+      "context_set": ""
+    },
+    {
+      "tag": "uurlah",
+      "patterns": ["bye anda", "zza", "mhn", "zl"],
+      "responses": ["zza byrte", "ysy yu blsy", "uurltsinmu"],
+      "context_set": ""
+    },
+    {
+      "tag": "openYoutube",
+      "patterns": [
+        "anda youtube",
+        "youtube",
+        "open youtube",
+        "yt",
+        "open yt",
+        "homie youtube",
+        "ym uzy",
+        "kino uzy",
+        "ym uzi",
+        "kino uzi"
+      ],
+      "responses": ["ishe or atsaa", "youtube nee gd bgnmu hahah"],
+      "context_set": ""
+    },
+    {
+      "tag": "garah",
+      "patterns": [
+        "grla",
+        "dra uuly",
+        "tary",
+        "ajiltai blclo",
+        "uts untarla",
+        "eej duudaad bn",
+        "aav zalgjin",
+        "untla",
+        "byrtee",
+        "byrte"
+      ],
+      "responses": ["byrtee", "oke~"]
+    },
+    {
+      "tag": "duu",
+      "patterns": [
+        "gy duu bnu",
+        "gagu du mdhu",
+        "duumuuni ym bnu",
+        "hugjin tavcac",
+        "gagu du bnu"
+      ],
+      "responses": ["asuhgun gj bodlooshd sd"]
+    }
+  ]
+}
